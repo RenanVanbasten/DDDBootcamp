@@ -1,0 +1,9 @@
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\bin\Debug\netcoreapp3.1\DDDbootcamp.deps.json
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\bin\Debug\netcoreapp3.1\DDDbootcamp.dll
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\bin\Debug\netcoreapp3.1\DDDbootcamp.pdb
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\obj\Debug\netcoreapp3.1\DDDbootcamp.csprojAssemblyReference.cache
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\obj\Debug\netcoreapp3.1\DDDbootcamp.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\obj\Debug\netcoreapp3.1\DDDbootcamp.AssemblyInfo.cs
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\obj\Debug\netcoreapp3.1\DDDbootcamp.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\obj\Debug\netcoreapp3.1\DDDbootcamp.dll
+C:\Users\paulo\Documents\DDDbootcamp\DDDbootcamp\obj\Debug\netcoreapp3.1\DDDbootcamp.pdb

@@ -1,0 +1,4 @@
+C:\Users\paulo\Documents\DDDbootcamp\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csprojAssemblyReference.cache
+C:\Users\paulo\Documents\DDDbootcamp\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfoInputs.cache
+C:\Users\paulo\Documents\DDDbootcamp\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfo.cs
+C:\Users\paulo\Documents\DDDbootcamp\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CoreCompileInputs.cache
